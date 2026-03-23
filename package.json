@@ -12,5 +12,9 @@
     "comandos."
   ],
   "author": "Miguel Angel Zambrano",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
